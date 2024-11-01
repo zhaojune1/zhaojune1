@@ -14,7 +14,7 @@
   </tr>
 </table>  
 
-Front-End Developer / Smart Contract Developer / Back-End Developer
+💻 Front-End Developer / 📑Smart Contract Developer / 🖥️ Back-End Developer
 
 ## Work Experience
 - Now, web3 front-end and smart contract development engineers
