@@ -6,11 +6,16 @@
 
 ## Hi there 👋 
 
- 
-<div style="text-align:left">
-   <img src="https://github-readme-stats.vercel.app/api?username=zhaojune1&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient"  align="left" style="width: 100%;height:200px" />
-</div>
 
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zhaojune1&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaojune1&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+
+</td></tr></table>  
 
 
 </td></tr></table>  
