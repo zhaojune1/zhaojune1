@@ -6,6 +6,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhaojune1/zhaojune1/output/github-contribution-grid-snake.svg">
 </picture>
 
+Front-End Developer / Smart Contract Developer / Back-End Developer
+
 ## Work Experience
 - Now, web3 front-end and smart contract development engineers
 - 3-year manufacturing system development engineer
