@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋![visitors](https://visitor-badge.glitch.me/badge?zhaojune1=page.id&left_color=green&right_color=red)
 
 <!--
 **zhaojune1/zhaojune1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
