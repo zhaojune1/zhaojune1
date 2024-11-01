@@ -7,7 +7,7 @@
 ## Hi there 👋 
 
  
- <table border=0><tr><td valign="top" width="50%">
+ <table border="0"><tr><td valign="top" width="50%">
 
   <img src="https://github-readme-stats.vercel.app/api?username=zhaojune1&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient" style="width: 100%;height:200px" />
 
