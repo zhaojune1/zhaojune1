@@ -6,7 +6,7 @@
 
 ## Hi there 👋 
 
- <img src="https://github-readme-stats.vercel.app/api?username=zhaojune1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=zhaojune1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 Front-End Developer / Smart Contract Developer / Back-End Developer
 
