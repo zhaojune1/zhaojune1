@@ -7,7 +7,7 @@
 ## Hi there 👋 
 
  
-<div text-align="left">
+<div style="text-align:left">
    <img src="https://github-readme-stats.vercel.app/api?username=zhaojune1&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient" style="width: 100%;height:200px" />
 </div>
 
